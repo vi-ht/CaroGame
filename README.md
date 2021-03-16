@@ -1,4 +1,3 @@
-# CaroGame
 # 🎮 Welcome to CaroGame repository
 
 ## You will find in this repo:
